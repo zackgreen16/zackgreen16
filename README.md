@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zack-Green
-- 👀 I’m interested in Japanese, Music, Game Development and of course, Programming!
-- 🌱 I’m currently learning C#, Lua, Unity and Japanese
+- 👀 I’m interested in Japanese, Music/Singing, Game Development and of course, Programming!
+- 🌱 I’m currently learning C#, Lua, Unity, Japanese and Music/Singing
 - 💞️ I’m looking to collaborate on Games, Programs and Music
 - 📫 How to reach me: 
 
